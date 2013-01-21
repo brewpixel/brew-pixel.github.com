@@ -1,0 +1,26 @@
+# OS or Editor folders
+.DS_Store
+.dropbox
+Icon
+
+# Espresso added files
+*.esproj
+*.espressostorage
+
+# BBEdit added files
+*.bbprojectd
+
+# TextMate added files
+*.tmproj
+
+# Sublime Text added files
+*.sublime-project
+*.sublime-workspace
+
+# Folders to ignore
+
+# Local Config file
+wp-config-local.php
+
+# Database search replace file
+searchreplacedb2.php
